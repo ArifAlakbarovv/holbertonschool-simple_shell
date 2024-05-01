@@ -156,7 +156,7 @@ $
 ```
 
 ## Authors
-| [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> Salomón Chambi </sub>](https://github.com/schambig) | [<img src="https://avatars.githubusercontent.com/u/103861356?v=4" width=85><br><sub> Drixner Condor </sub>](https://github.com/Drixner) | [<img src="https://avatars.githubusercontent.com/u/98305125?v=4" width=85><br><sub> Johana Herrera </sub>](https://github.com/Johana-RHP) |
+| [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> ARIF ALAKBAROV </sub>](https://github.com/ArifAlakbarovv) | [<img src="https://avatars.githubusercontent.com/u/103861356?v=4" width=85><br><sub> Kanan Shafizada </sub>](https://github.com/Kenan085) 
 | :---: | :---: | :---: |
 
 [Back to top](#simple-shell)<!--@schambig-->
