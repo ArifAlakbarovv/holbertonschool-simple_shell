@@ -1,6 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
 # Simple shell
 
 ![Simple shell](https://i.imgur.com/9m8edhj.jpg)
@@ -157,10 +154,3 @@ $
 
 ## Authors
 | [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> ARIF ALAKBAROV </sub>](https://github.com/ArifAlakbarovv) | [<img src="https://avatars.githubusercontent.com/u/103861356?v=4" width=85><br><sub> Kanan Shafizada </sub>](https://github.com/Kenan085) 
-| :---: | :---: | :---: |
-
-[Back to top](#simple-shell)<!--@schambig-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
