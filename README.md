@@ -8,7 +8,6 @@
 - [System and Library calls](#system-and-library-calls)
 - [Installation](#installation)
 - [Example of Use](#example-of-use)
-- [Authors](#authors)
 
 ## Description
 The Simple Shell is a simple UNIX command interpreter written entirely in C. The program runs based on bash commands obtained from the command line interface (CLI) given by the user.
@@ -151,6 +150,3 @@ OLDPWD=/root/githubRepos/holbertonschool-simple_shell-test
 _=./hsh
 $
 ```
-
-## Authors
-| [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> ARIF ALAKBAROV </sub>](https://github.com/ArifAlakbarovv) | [<img src="https://avatars.githubusercontent.com/u/103861356?v=4" width=85><br><sub> Kanan Shafizada </sub>](https://github.com/Kenan085) 
