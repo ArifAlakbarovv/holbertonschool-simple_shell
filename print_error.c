@@ -12,5 +12,4 @@ void print_error(char *av, char *command)
 	write(2, ": 1: ", 5);
 	write(2, command, strlen(command));
 	write(2, ": not found\n", 12);
-
 }
