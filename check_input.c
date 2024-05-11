@@ -17,5 +17,4 @@ int check_input(char *buffer)
 		return (1);
 	}
 	return (0);
-
 }
