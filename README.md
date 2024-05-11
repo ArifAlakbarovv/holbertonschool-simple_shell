@@ -1,7 +1,7 @@
 <h1 align = "center"> C - Simple Shell </h1>
 
 <h2> Description </h2>
-<p>This project consist of the development of a command interpreter for Linux. The program tries to replicate the basic functionalities of sh shell. It was developed in C language.</p>
+<p>This project consists of the development of a command interpreter for Linux. The program tries to replicate the basic functionalities of sh shell. It was developed in C programming language.</p>
 
 <h2> Flowchart </h2>
 <p align = "center"> <img src="https://i.imgur.com/T47ttDM.png" /> </p>
