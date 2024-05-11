@@ -130,6 +130,6 @@ LC_ALL=en_US.UTF-8
 
 
 <p>Arif Alakbarov - <a href="https://github.com/ArifAlakbarovv"> ArifAlakbarovv </a></p>
-<p>Kanan Shafizada - <a href="https://github.com/Kenan085"> Kenan085</a></p>
+<p>Kanan Shefizada - <a href="https://github.com/Kenan085"> Kenan085</a></p>
 
 
