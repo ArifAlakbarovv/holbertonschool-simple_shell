@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * check_status - read the status of child proccess
+ * check_status - reading the status of child proccess
  * @pidC: child PID
  * @status: exit status of child
  * Return: -1 if waitpid fails, otherwhise exit status
@@ -20,4 +20,5 @@ int check_status(int pidC, int status)
 	else if (WIFSTOPPED(status))
 		return (WSTOPSIG(status));
 	return (0);
+
 }
