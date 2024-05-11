@@ -2,8 +2,8 @@
 
 /**
  * _strlen - count the large of a string, without including NULL char
- * @string: string
- * Return: length of the string as an int
+ * @string: our string
+ * Return: the length of the string as an int
  */
 
 int _strlen(char *string)
