@@ -43,5 +43,4 @@ char *_start_(int flag)
 		exit(flag);
 	}
 	return (buffer);
-
 }
