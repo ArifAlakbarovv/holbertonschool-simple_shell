@@ -38,5 +38,4 @@ char **buff_to_array(char *string, char *delimitators)
 	array[k] = NULL;
 	free(aux_string);
 	return (array);
-
 }
