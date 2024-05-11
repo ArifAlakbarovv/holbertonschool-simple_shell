@@ -2,7 +2,7 @@
 
 /**
  * main - Runs our Shell program
- * @ac: argument counter
+ * @ac: argument count
  * @av: argument value
  * @env: enviroment values
  * Return: exit status
