@@ -26,7 +26,7 @@ $</code></pre>
   -<b>ENV</b> - which print the environment variables<br>
   -<b>EXIT</b> - which end the program<br>
   </p>
-<h2> File contents </h2>
+<h2> File Contents </h2>
 <table>
 <tr>
   <td><strong>Name of file</strong></td>
