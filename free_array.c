@@ -18,4 +18,5 @@ int free_array(char **array)
 	}
 	free(array);
 	return (0);
+
 }
