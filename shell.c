@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Runs a Shell program
- * @ac: arguemnt count
+ * main - Runs our Shell program
+ * @ac: arguemnt counter
  * @av: argument value
  * @env: enviroment values
  * Return: exit status
